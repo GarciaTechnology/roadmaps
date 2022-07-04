@@ -5,7 +5,7 @@
 
 <ol>
     <li> HTTP/HTTPS Protocols </li>
-    <li> What is git version control ? What is this for ?</li>
+    <li> What is git version control ? What is it for ?</li>
     <li> GIT - GitHub, GitLab </li>
     <li> REST API fundamentals</li>
     <li> C# 10+ basics</li>
@@ -13,10 +13,10 @@
     <li> .NET Core Basics </li>
     <li> SQL Fundamentals </li>
     <li> SOLID </li>
-    <li> What is ORM ? What is this for ? </li>
+    <li> What is ORM ? What is it for ? </li>
     <li> EF Core , Code First </li>
     <li> SQL Server , PostgreSQL </li>
-    <li> What is Dependecy Injection ? What is this for ?</li>
+    <li> What is Dependecy Injection ? What is it for ?</li>
     <li> DI Containers (Microsoft.Extentions.DependencyInjection) </li>
     <li> DI Life Cycles (Scoped, Transient, Singleton) </li>
     <li> Object Mapping, (AutoMapper) </li>
