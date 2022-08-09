@@ -8,6 +8,7 @@
     <li> What is git version control ? What is it for ?</li>
     <li> GIT - GitHub, GitLab </li>
     <li> REST API fundamentals</li>
+    <li> OOP </li>
     <li> C# 10+ basics</li>
     <li> .NET 6</li>
     <li> .NET Core Basics </li>
